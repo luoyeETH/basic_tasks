@@ -13,7 +13,7 @@ DAPP架构请参考文章--[从架构维度看Web2.0与Web3.0应用之别](https
 ✅ 表示任务已完成
 
 1. [deploy contract with web3.js](basic/01-web3js-deploy) ✅
-2. [create transaction with web3.js](basic/02-web3js-transaction) ⬜
+2. [create transaction with web3.js](basic/02-web3js-transaction) ✅
 3. [call ERC20 contract with web3.js](basic/03-web3js-erc20) ⬜
 4. [truffle](basic/04-web3js-truffle) ⬜
 5. [call ERC20 contract with ethers.js](basic/05-ethersjs-erc20) ⬜
